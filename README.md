@@ -4,11 +4,7 @@
 
 I'm a passionate **Full Stack Developer** who thrives on creating scalable, efficient, and user-centered solutions. I enjoy working across the full web stack and collaborating with diverse teams.
 
-🌱 Always learning and improving—both professionally and personally.  
-🚀 Focused on performance, scalability, and clean code.  
-🤝 I enjoy working in collaborative, agile environments. 
-
-### 💻 Full Stack Developer
+## 💻 Experience
 
 - 🏢 **SchoolMint** (Dec 2021 – Present)  
   Worked across multiple teams (Customization, Maintenance, Automation) using **React, PHP, AWS, Ruby on Rails**, and **Pytest** to build and maintain applications and automation pipelines.
@@ -16,7 +12,6 @@ I'm a passionate **Full Stack Developer** who thrives on creating scalable, effi
 - 🧪 **Fresh Consulting** (Feb 2023 – Feb 2024)  
   Led initiatives with **Next.js, TypeScript**, and **AI APIs** (DALL·E, Stable Diffusion).  
   Supported data infrastructure migration research with tools like **Airflow** and **Dagster**. 
-
 
 ## 🛠️ Technologies & Tools
 
@@ -74,9 +69,11 @@ I'm a passionate **Full Stack Developer** who thrives on creating scalable, effi
 
 ## 📜 Certifications
 
-- ✅ AWS Certified Cloud Practitioner (May 2024)  
-- ✅ ISTQB Certified Tester Foundation Level – CTFL (Dec 2024)  
-- ✅ Scrum Fundamentals Certified – SFC (Mar 2021)  
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-MAY%202024-F7981D?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)](https://www.credly.com/badges/660830cb-8439-4a83-8620-7ffcefa53b28/linked_in_profile)
+
+[![ISTQB CTFL](https://img.shields.io/badge/ISTQB%20CTFL-DEC%202024-0066CC?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=101010)](https://skillshub.isqi.org/b3042fd3-29e5-4733-88a3-0d1fb458d076#acc.IzqbwPXJ)
+
+[![Scrum Fundamentals Certified](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-MAR%202021-00B6F1?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=101010)](https://www.scrumstudy.com/certification/verify?type=SFC&number=835604)
 
 
 ## 📚 Education
