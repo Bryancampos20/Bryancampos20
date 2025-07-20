@@ -1,22 +1,93 @@
-## Hi there 👋
+# Hello, I'm Bryan Campos 👋
 
-<!--
-**Bryancampos20/Bryancampos20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Full Stack Developer** who thrives on creating scalable, efficient, and user-centered solutions. I enjoy working across the full web stack and collaborating with diverse teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always learning and improving—both professionally and personally.  
+🚀 Focused on performance, scalability, and clean code.  
+🤝 I enjoy working in collaborative, agile environments. 
+
+### 💻 Full Stack Developer
+
+- 🏢 **SchoolMint** (Dec 2021 – Present)  
+  Worked across multiple teams (Customization, Maintenance, Automation) using **React, PHP, AWS, Ruby on Rails**, and **Pytest** to build and maintain applications and automation pipelines.
+
+- 🧪 **Fresh Consulting** (Feb 2023 – Feb 2024)  
+  Led initiatives with **Next.js, TypeScript**, and **AI APIs** (DALL·E, Stable Diffusion).  
+  Supported data infrastructure migration research with tools like **Airflow** and **Dagster**. 
+
 
 ## 🛠️ Technologies & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,php,laravel,python,django,rails,postgres,mysql,mongodb,aws,gcp,docker,html,css,tailwind,figma,bash,vscode,git,github,selenium" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo" />
 </div>
+
+## 📜 Certifications
+
+- ✅ AWS Certified Cloud Practitioner (May 2024)  
+- ✅ ISTQB Certified Tester Foundation Level – CTFL (Dec 2024)  
+- ✅ Scrum Fundamentals Certified – SFC (Mar 2021)  
+
+
+## 📚 Education
+
+🎓 **Bachelor's in Computer Engineering**  
+Tecnológico de Costa Rica
+
+## 🌐 Let's Connect
+
+[![Email](https://img.shields.io/badge/Gmail-bryancampos20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancampos20@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BryanCampos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-campos-castro-138a3a189/)
+
+
+
