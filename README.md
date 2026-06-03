@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer** who thrives on creating scalable, effi
 
 ## 💻 Experience
 
-- 🏢 **SchoolMint** (Dec 2021 – Aug 2025)  
+- 🏢 **SchoolMint** (Dec 2021 – Dec 2025)  
   Worked across multiple teams (Customization, Maintenance, Automation) using **React, PHP, AWS, Ruby on Rails**, and **Pytest** to build and maintain applications and automation pipelines.
 
 - 🧪 **Fresh Consulting** (Feb 2023 – Feb 2024)  
